@@ -1,0 +1,20 @@
+Bi directional Encoder Representation from Transformers
+
+11개 NLP task - state of the art 
+
+sentiment analysis
+QnA
+
+BERT 모델을 모든 언어에 적용 가능
+
+ETRI KorBERT
+
+1. BERT 읽고 이해하기< Attention is all you need
+
+2. tensorflow set up
+
+3. module > encorder 
+
+다음주 월 5시30분
+
+GLUE
