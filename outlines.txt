@@ -1,0 +1,122 @@
+Best UX design portfolio samples
+
+https://www.toptal.com/designers/ux/ux-designer-portfolios  
+
+
+------------------------
+
+outline
+
+1. user research / analysis
+    - 2012-2013 23억문장  - 연락처의 사람이름으로 전화걸기 22.8%
+    - 
+
+2. project proposal
+    - concept
+    - why
+    - main benefits (특징), 기대효과
+    - competitors status
+    - 준비 현황 및 일정
+    - 미래?
+
+3. design decision
+     - 접근 방법 (squeeze, long , long touch
+     - interaction GUI (calling, cancel, multiple)
+
+4. design details
+     - key flows UI (launch, basic;listening,result,multiresults, calling, help page)
+     - key screens GUI
+
+5. issues & improvements
+
+6. UT & analytics (issues & improvements)
+    - internal (dev, UX - 2015 12월)  - alpha test
+    - usability group (2016 1월)   - beta test
+    - 일반 사용자 (2016 4월)   - public beta test
+
+7. POC & promotional video (홍보 동영상)
+- 홍보 현황
+- 홍보 계획
+
+8. S7 실제 적용 후 User metrics
+
+----------------
+
+가정) 배 어디에서던 접근 가능하다
+
+
+(use cases)
+
+전체종류, 각각설명, 예약하기, 취소하기, 리마인더하기, 가는 길알려주기, 남은 시간 알려주기, 예약한 activity 리스트업
+
+
+특정 조건에 맞는 activity 찾아주기 (가장 당장, relaxing, challenging, healing, eating, 아침, 가장 인기많은, 어린이용, 나이제한없이, 성인용,  etc)
+
+
+ 담당자 연결하기 
+
+
+activities 뭐가 있어
+
+n 번쨰 activity 에 대해서 얘기해봐
+
+: 누가 참가 가능해?
+
+: 언제 어디서 열려?
+
+: 얼마나 오래동안 해?
+
+: 추가 비용 있어?
+
+: 
+
+activities 예약할래
+
+: 몇명?
+
+: 몇시 time?
+
+: 
+
+오늘 예약된 activities 뭐가 있어
+
+# activity 취소할래
+
+
+n 번째 activity 시간에 맞춰 알려줘
+
+배에서 해당 지역 찾아갈때 
+
+     : 지금 여기서 어떻게 찾아가?
+
+     : 다음 activities 까지 시간 얼마나 남았어?
+
+
+
+==================
+
+1. purpose
+
+    product perspective/context
+
+    value proposition
+
+    target goals
+
+
+2. functions & features
+
+
+3. Use cases : scenarios & user stories
+
+
+4. Requirements (3번에 대해)
+
+interaction flows 
+
+functional 
+
+5. UI/VUI wireframes 
+
+6. Analytics
+
