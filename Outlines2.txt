@@ -1,0 +1,173 @@
+Best UX design portfolio samples
+
+https://www.toptal.com/designers/ux/ux-designer-portfolios  
+
+
+------------------------
+
+outline
+
+1. user research / analysis
+    - (2012-2013) 2.3 billion utts  - call by name in contact 22.8%    
+    - (2014) 20~40s user : about 40% call
+    - (S Voice, 2015 Dec) call - most used domain 24%, Mag 20%
+
+2. project proposal
+    - concept
+    - why
+    - main features, anticipated benefits
+    - competitors status
+    - prep status and schedule
+    - future
+
+3. design decision
+     - how to launch (squeeze, long press, long touch)
+     - interaction GUI (calling, cancel, multiple)
+
+4. design details
+     - key flows UI (launch, basic;listening,result,multiresults, calling, help page)
+     - key screens GUI
+
+5. issues & improvements
+
+6. UT & analytics (issues & improvements)
+    - internal (dev, UX - 2015 Dec)  - alpha test
+    - usability group (2016 Jan)   - beta test
+    - public users (2016 April)   - public beta test
+
+7. POC & promotional video (홍보 동영상)
+- promotion status
+- promotion plan
+
+8. User metrics after S7 launched (2016, May-June)
+- 21.6% of S Voice users use more than 1 time per day (2016, June)
+- 15% uses 2.3 times/day on average (2016, May)
+- 27.4% of S Voice users use more than 1 time per week
+- 2.4% of S7 users use QuickDial (2016, May)
+
+
+----------------
+
+가정) 배 어디에서던 접근 가능하다
+
+
+(use cases)
+
+전체종류, 
+각각설명, 
+예약하기, (예약상황 알려주기)
+취소하기, 
+리마인더하기, 
+가는 길알려주기, 
+시작까지 남은 시간 알려주기, 
+예약한 activity 리스트업
+
+
+특정 조건에 맞는 activity 찾아주기 
+(가장, 당장, relaxing, challenging, healing, eating, 아침, 가장 인기많은, 어린이용, 나이제한없이, 성인용,  etc)
+
+
+담당자 연결하기 
+
+
+activities 뭐가 있어
+
+n 번쨰 activity 에 대해서 얘기해봐
+
+: 누가 참가 가능해?
+
+: 언제 어디서 열려?
+
+: 얼마나 오래동안 해?
+
+: 추가 비용 있어?
+
+: 
+
+activities 예약할래
+
+: 몇명?
+
+: 몇시 time?
+
+: 
+
+오늘 예약된 activities 뭐가 있어
+
+# activity 취소할래
+
+
+n 번째 activity 시간에 맞춰 알려줘
+
+배에서 해당 지역 찾아갈때 
+
+     : 지금 여기서 어떻게 찾아가?
+
+     : 다음 activities 까지 시간 얼마나 남았어?
+
+
+
+==================
+
+1. purpose
+
+    product perspective/context
+
+    value proposition
+
+    target goals
+
+
+2. functions & features
+
+
+3. Use cases : scenarios & user stories
+
+
+4. Requirements (3번에 대해)
+
+interaction flows (confirmation should be provided for deletion)
+
+functional (user profile must be available)
+
+5. UI/VUI wireframes 
+
+6. Analytics?
+
+
+-------------------------
+Outline
+
+OWC
+
+(1) User Research / Analysis (기획, 개발 실 사용 metric) - 사용 높은 기능, 발화 분석 
+(2) Project Proposal (기획안)
+(3) Design decision (UX VPs )
+(4) Design (UI, GUI, VUI, prototype, 소개영상-마케팅)
+(5) Issues & 개선안
+(6) UT 결과 (Usability)
+    - [UT설문지] 내부 UT 설문조사_Voice서비스개발그룹_20151103_UX질문추가
+    - [VOC 정리] One Word Call 내부 VOC_151103
+    - [VOC_EN 정리] One_word_call_VOC_리스트_(US-En)_기획의견_20151120
+ 
+(7) 시안 
+      - OWC_321_시안
+      - one_word_call_영상
+      - one word call 밑에 keyscreen
+      -000_Quick Dial 소개영상_20160406
+
+CRUISE
+
+(1) Purpose & 
+    Product perspective/ context
+    Value proposition
+    Target Goals
+
+(2) Functions& features
+(3) Use cases: scenarios & User stories (몇개?)
+(4) Requirements 
+     - Interaction flow (3에 대한 flow)
+     - Functional (3에 대해서)
+(5) UI/VUI wireframes
+(6) Analytics
+
